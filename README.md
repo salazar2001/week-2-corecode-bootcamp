@@ -9,3 +9,8 @@ Because making an assumption that everyone who did not study is telling a lie is
 Every other statement will be contradicting itself.
 
 *************************************************************
+
+**Cereal or Milk**
+![image](https://user-images.githubusercontent.com/61639758/204941106-a5c11969-e1ab-4669-8a5d-05ebc7419dae.png)
+
+
