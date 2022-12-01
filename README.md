@@ -11,6 +11,18 @@ Every other statement will be contradicting itself.
 *************************************************************
 
 **Cereal or Milk**
+
+
 ![image](https://user-images.githubusercontent.com/61639758/204941106-a5c11969-e1ab-4669-8a5d-05ebc7419dae.png)
+
+
+
+
+**Pseudocode**
+
+Get the bowl;
+Define if you will put milk or cereal first;
+Put the complement;
+Eat it;
 
 
