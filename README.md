@@ -25,4 +25,10 @@ Define if you will put milk or cereal first;
 Put the complement;
 Eat it;
 
+***************************************************************
+
+**Exercises with Pseint**
+
+Added them as .txt files since Github was not letting me upload them as pseint files.
+
 
